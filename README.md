@@ -9,36 +9,35 @@ The analysis helps businesses make data-driven decisions for improving sales per
 
 🔹 Objective
 
-To analyze ecommerce sales data effectively.
-To identify top-selling products and categories.
-To understand customer purchasing patterns.
-To visualize sales trends and profit distribution.
-To generate business insights using data analytics techniques.
+1) To analyze ecommerce sales data effectively.
+2) To identify top-selling products and categories.
+3) To understand customer purchasing patterns.
+4) To visualize sales trends and profit distribution.
+5) To generate business insights using data analytics techniques.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔹 Features
 
-Data Cleaning and Preprocessing.
-Exploratory Data Analysis (EDA).
-Sales Trend Analysis.
-Profit and Revenue Analysis.
-Customer Segmentation Insights.
-Product Performance Analysis.
-Interactive Data Visualization.
-Business Decision Support Insights.
+1) Data Cleaning and Preprocessing.
+2) Exploratory Data Analysis (EDA).
+3) Sales Trend Analysis.
+4) Profit and Revenue Analysis.
+5) Customer Segmentation Insights.
+6) Product Performance Analysis.
+7) Interactive Data Visualization.
+8) Business Decision Support Insights.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔹 Technologies Used
 
-Technology	Purpose
-Python	Data Analysis & Processing
-Pandas	Data Manipulation
-NumPy	Numerical Computation
-Matplotlib	Data Visualization
-Seaborn	Statistical Visualization
-Jupyter Notebook	Development Environment
+1) Python	Data Analysis & Processing
+2) Pandas	Data Manipulation
+3) NumPy	Numerical Computation
+4) Matplotlib	Data Visualization
+5) Seaborn	Statistical Visualization
+6) Jupyter Notebook	Development Environment
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -55,14 +54,18 @@ Data is processed to remove missing and inconsistent values.
 
 1️⃣ Data Collection
 Imported ecommerce sales dataset for analysis.
+
 2️⃣ Data Cleaning
 Removed null values and duplicates.
 Corrected inconsistent data entries.
+
 3️⃣ Data Exploration
 Analyzed sales distribution and trends.
 Identified important business metrics.
+
 4️⃣ Data Visualization
 Created graphs and charts for better understanding.
+
 5️⃣ Insight Generation
 Extracted meaningful business insights from data.
 
@@ -91,20 +94,20 @@ Product category performance evaluation.
 
 🔹 Data Visualization Used
 
-Bar Charts
-Line Charts
-Pie Charts
-Scatter Plots
+1) Bar Charts
+2) Line Charts
+3) Pie Charts
+4) Scatter Plots
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔹 Business Insights
 
-Identified high-performing product categories.
-Detected sales growth trends over time.
-Found regions contributing maximum revenue.
-Analyzed customer buying behavior patterns.
-Generated insights for improving business strategy.
+1) Identified high-performing product categories.
+2) Detected sales growth trends over time.
+3) Found regions contributing maximum revenue.
+4) Analyzed customer buying behavior patterns.
+5) Generated insights for improving business strategy.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -146,8 +149,8 @@ This project helps in understanding sales performance, customer behavior, and pr
 🔹 Author
 
 👨‍💻 Rushi Pansare
-Data Analytics
-Python Programmer
+Data Analytics,
+Python Programmer,
 Passionate about Data Visualization and Business Insight.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
