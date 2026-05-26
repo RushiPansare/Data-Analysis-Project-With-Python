@@ -151,6 +151,6 @@ This project helps in understanding sales performance, customer behavior, and pr
 👨‍💻 Rushi Pansare
 Data Analytics,
 Python Programmer,
-Passionate about Data Visualization and Business Insight.
+Passionate about Data Visualization and Business Insights.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
